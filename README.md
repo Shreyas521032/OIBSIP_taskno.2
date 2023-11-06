@@ -16,3 +16,7 @@ This simple BMI calculator is a Python command-line application that calculates 
 
    ```bash
    https://github.com/Shreyas521032/OIBSIP_taskno.2.git
+
+# OUTPUT
+
+![image](https://github.com/Shreyas521032/OIBSIP_taskno.2/assets/149940538/a6abaa20-8784-443a-8dc9-f2d1e2df3081)
